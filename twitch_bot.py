@@ -4,6 +4,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# TODO: get the bot to join the channel and start listening for messages
+# TODO: get the bot to respond to messages
+# TODO: get the bot to respond to commands
+# TODO: get the bot to respond to commands with a message
+# TODO: get the bot to respond to commands with a message
+
 
 class Bot(commands.Bot):
     def __init__(self):
